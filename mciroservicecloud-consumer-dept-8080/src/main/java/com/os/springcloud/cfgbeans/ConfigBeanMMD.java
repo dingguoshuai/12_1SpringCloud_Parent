@@ -27,4 +27,8 @@ public class ConfigBeanMMD {
         return iRule;
 
     }
+
+    public static void main(String[] args) {
+
+    }
 }
